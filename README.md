@@ -197,4 +197,4 @@ The project automatically saves:
 
 GitHub:
 https://github.com/HasnainShaikh121314
->>>>>>> 853aea0 (Refactor facial emotion detection project)
+
